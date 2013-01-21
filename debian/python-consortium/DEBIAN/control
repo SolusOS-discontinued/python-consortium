@@ -1,0 +1,11 @@
+Package: python-consortium
+Version: 1.0
+Architecture: i386
+Maintainer: Loic Minier <lool@dooz.org>
+Installed-Size: 217
+Depends: libatk1.0-0 (>= 1.12.4), libc6 (>= 2.3.6-6~), libcairo2 (>= 1.2.4), libconsortium-private0a (>= 1.0), libfontconfig1 (>= 2.9.0), libfreetype6 (>= 2.2.1), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.12.0), libgtk2.0-0 (>= 2.8.0), libpango1.0-0 (>= 1.14.0), python2.7 | python2.6, python (>= 2.6), python (<< 2.8), python-gtk2
+Section: python
+Priority: optional
+Description: Python bindings for the Consortium Window Manager
+ This package contains a module that allows one to write applications using
+ the Consortium Window Manager in Python
